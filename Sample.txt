@@ -1,8 +1,8 @@
 This is the first line of an example text.
-It is a text with erors.
-It is a text with erors.
-Lots of erors.
-So much erors, all these erors are ,aloing ,e sick.
-This is a line not containing any errors.
-This is a line not containing any errors.
+It is a text with cats.
+It is a text with cats.
+Lots of cats.
+So much cats, all these cats are all making me sick.
+This is a line not containing any cats.
+This is a line not containing any cats.
 This is the last line.
